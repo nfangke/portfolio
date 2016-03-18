@@ -1,3 +1,76 @@
-h1 {
-  color: red;
+/* Intro Section */
+
+  .jumbotron {
+    padding-top: 100px;
+    background-color: #65727A;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #BEC3BC;
+  }
+
+  h1 strong {
+    font-size: 60pt;
+    letter-spacing: 4px;
+  }
+
+  .projectsanchor {
+    font-size: 25px;
+    font-weight:200;
+    letter-spacing: 2px;
+    color: #E6E8E3;
+  }
+
+/* Icon Section */
+
+  .n-icons {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    color: #8F9A9C;
+  }
+
+
+  .iconimg {
+    max-width: 80px;
+  }
+
+/* About Section */
+
+  .aboutn{
+    background-color: #BEC3BC;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+  }
+
+  .aboutn p{
+    font-size: 13pt;
+  }
+
+  .interestsn{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: : 30px;
+    height: 297px;
+    background-color: #BEC3BC;
+  }
+
+  #interestlist {
+    list-style: circle;
+    list-style-position: outside;
+    line-height: 200%;
+    font-size: 13pt;
+  }
+
+/* Projects Section */
+
+  .projects-bckgrnd {
+    background-color: #D7DACF;
+    text-align: center;
+    padding-top: 30px;
+  }
+
+.testanchor {
+  height: 1000px;
 }
