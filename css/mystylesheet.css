@@ -52,11 +52,15 @@
     font-size: 13pt;
   }
 
+  .ex {
+    font-weight: bolder;
+  }
   .interestsn{
     padding-top: 30px;
     padding-left: 30px;
     padding-right: : 30px;
     height: 297px;
+    float: right;
   }
 
   #interestlist {
@@ -121,7 +125,7 @@
       font-weight: bolder;
     }
 
-    .languages ul li {
+    .languages ol li {
       padding: 0;
       list-style:decimal-leading-zero;
     }

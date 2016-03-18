@@ -1,12 +1,12 @@
-# _{Portfolio Webpage}_
+# _Portfolio Webpage_
 
-#### _{Simple portfolio page}_
+#### _Simple portfolio page_
 
-#### By _**{Nancy Fang}**_
+#### By _**Nancy Fang**_
 
 ## Description
 
-_{The purpose of the webpage is to display information about me and showcase work.}_
+_The purpose of the webpage is to display information about me and showcase work._
 
 ## Setup/Installation Requirements
 
@@ -20,8 +20,7 @@ _http://nfangke.github.io/portfolio_
 
 ### License
 
-Copyright (c) 2016 **_{Nancy Fang}_**
-{Copyright (c) <year> <copyright holders>
+Copyright (c) 2016 **_Nancy Fang 2016 MIT Copyright_**
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
