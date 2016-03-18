@@ -35,11 +35,15 @@
   }
 
 /* About Section */
+  .aboutinterest {
+    background-color: #BEC3BC;
+
+  }
 
   .aboutn{
-    background-color: #BEC3BC;
+
     padding-top: 30px;
-    padding-left: 50px;
+    padding-left: 100px;
     padding-right: 50px;
     padding-bottom: 50px;
   }
@@ -53,7 +57,6 @@
     padding-left: 30px;
     padding-right: : 30px;
     height: 297px;
-    background-color: #BEC3BC;
   }
 
   #interestlist {
@@ -69,7 +72,63 @@
     background-color: #D7DACF;
     text-align: center;
     padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
   }
+
+  .rowcontainer {
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+
+  .project-preview {
+    padding: 20px;
+    margin-bottom: 30px;
+  }
+  .projimg {
+    max-width: 100%;
+
+  }
+
+  .project-preview-info {
+    padding-top:10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #E6E8E3;
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+
+    .project-preview-info p {
+      font-size: 1em;
+    }
+
+    .project-preview-info h4 {
+      color: #65727A;
+    }
+
+.furtherinfo {
+  width: 100%;
+  background-color: #D7DACF;
+  margin-bottom:15px;
+}
+  .languages {
+    text-align: left;
+  }
+
+  h5 {
+      font-size: .75em;
+      font-weight: bolder;
+    }
+
+    .languages ul li {
+      padding: 0;
+      list-style:decimal-leading-zero;
+    }
+
+    .languages ul {
+      padding:inherit;
+    }
 
 .testanchor {
   height: 1000px;
