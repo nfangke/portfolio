@@ -8,6 +8,13 @@
     color: #BEC3BC;
   }
 
+  .spiritanimal{
+    max-width: 300px;
+    float: center;
+    padding: 10px;
+
+  }
+
   h1 strong {
     font-size: 60pt;
     letter-spacing: 4px;
